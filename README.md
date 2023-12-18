@@ -40,5 +40,5 @@ Flask adalah sebuah framework web mikro yang ditulis dalam bahasa pemrograman Py
 ![Screenshot (590)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/94447ff0-c030-4f65-8c97-048dd0e189e3)
 
 2. Hasil Prediksi
-
 ![Screenshot (578)](https://github.com/prithaaulliah/Modul6_ML/assets/71914321/bccaba9d-f9c1-4733-aecb-0691e9fd3614)
+
